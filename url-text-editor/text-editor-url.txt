@@ -1,2 +1,1 @@
 data:text/html,<title>Editor</title><style>body,textarea{background:Black;color:LightGray;width:100%;height:100%;margin:0;border:none;resize:none}</style><textarea autofocus>
-data:text/html, <html contenteditable>
