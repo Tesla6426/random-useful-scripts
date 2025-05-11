@@ -1,0 +1,1 @@
+simply copy the text into your url bar and it will open a web-based text editor that does not require internet
